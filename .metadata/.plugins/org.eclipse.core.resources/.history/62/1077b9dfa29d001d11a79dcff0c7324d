@@ -1,0 +1,6 @@
+package first;
+
+public class Hello {
+	public void main(String Args[])
+System.out.println("I did it")
+}
